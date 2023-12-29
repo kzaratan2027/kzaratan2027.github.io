@@ -315,3 +315,16 @@ p{
     background-position-x: 0px;
   }
 }
+
+.profile {
+  height: 500px;
+  width: 450px;
+  object-fit: cover;
+}
+
+.tem-img {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  text-align: center;
+}
