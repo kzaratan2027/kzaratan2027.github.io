@@ -197,7 +197,7 @@ main {
   margin: 0 0 1em;
   font-size:1em;
   box-sizing: border-box;
-  min-height: 825px;
+  min-height: 1450px;
   transition:all .7s ease;
 }
 .block:hover{
